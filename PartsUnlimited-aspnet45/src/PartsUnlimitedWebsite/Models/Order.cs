@@ -66,5 +66,6 @@ namespace PartsUnlimited.Models
         public List<OrderDetail> OrderDetails { get; set; }
 
         /* A skeleton of a very smart method should be here */
+        /* A code of very smart method is here*/
     }
 }
